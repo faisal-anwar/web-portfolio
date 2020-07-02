@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color: hotpink;
+    font-size: 40px;
+}
+.name-highlight{
+    font-size: 50px;
+    color: lime;
+}
+.specific{
+    font-size: 25px;
+    color:purple;
+}
+.para1{
+    font-size: 15px;
+    color: darkblue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
